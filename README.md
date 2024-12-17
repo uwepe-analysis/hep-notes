@@ -1,7 +1,7 @@
 # HEP Notes
 
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://uwepe-analysis.github.io/hep-notes/intro.html)
-[![deploy-book](https://github.com/uwepe-analysis/hep-notes/actions/workflows/deploy.yml/badge.svg)](https://github.com/uwepe-analysis/hep-notes/actions/workflows/deploy.yml)
+[![deploy-book](https://github.com/uwepe-analysis/hep-notes/actions/workflows/deploy.yml/badge.svg)](https://github.com/uwepe-analysis/hep-notes/actions/workflows/deploy.yml)  
 HEP-Notes: Collaborative notes for high-energy physics theory, experiments, and data analysis.
 
 ## Usage

@@ -14,3 +14,7 @@ parts:
   chapters:
   - file: Statistics/intro
   - file: Statistics/MC
+- caption: Reference
+  chapters:
+  - file: Reference/glossary
+  - file: Reference/resource
