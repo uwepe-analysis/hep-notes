@@ -1,0 +1,16 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: Theory
+  chapters:
+  - file: Theory/StandardModel
+- caption: Experiment
+  chapters:
+  - file: Experiment/ATLAS
+- caption: Statistics
+  chapters:
+  - file: Statistics/intro
+  - file: Statistics/MC
