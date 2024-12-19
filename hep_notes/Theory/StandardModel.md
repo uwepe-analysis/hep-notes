@@ -9,6 +9,12 @@ The Standard Model of particle physics is the theory describing three of the fou
 4. 1 Higgs self couplings
 5. 4 independent real number degree of freedoms in the CKM matrix
 
+## Feynman Diagrams
+
+1. Neutral pion decay  
+![Neutral pion decay.](./Images/NeutralPionDecayFeynmanDiagram.png)  
+Lifetime: $8.5 \times 10^{−17}$ s, with BR = 0.98823. It's an electromagnetic process, so it explains why the $\pi^0$ has a lifetime 9 orders of magnitude smaller than its charged siblings $\pi^\pm$.   
+
 ## Particles
 
 ### B-meson
