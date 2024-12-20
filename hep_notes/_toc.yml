@@ -16,6 +16,7 @@ parts:
   - file: Statistics/MC
 - caption: Reference
   chapters:
+  - file: Reference/Math
   - file: Reference/glossary
   - file: Reference/resource
 - caption: Questions
