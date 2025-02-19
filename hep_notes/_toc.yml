@@ -14,6 +14,7 @@ parts:
   chapters:
   - file: Statistics/intro
   - file: Statistics/MC
+  - file: Statistics/exercise
 - caption: Reference
   chapters:
   - file: Reference/Math
